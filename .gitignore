@@ -1,0 +1,43 @@
+# Eclipse IDE
+bin/
+*.launch
+.settings/
+.metadata/
+.classpath
+.project
+
+# IntelliJ IDEA
+out/
+*.ipr
+*.iws
+*.iml
+.idea/
+
+# Gradle
+build/
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar  # Keep the Gradle wrapper script
+!gradle/wrapper/gradle-wrapper.properties
+
+# Log files
+logs/
+latest.log
+debug.log
+
+# Minecraft Forge-related files
+run/
+run-data/
+config/
+crash-reports/
+saves/
+mods/
+resourcepacks/
+options.txt
+optionsof.txt
+optionsshaders.txt
+servers.dat
+
+# Other
+.DS_Store  # macOS metadata
+Thumbs.db  # Windows metadata
+*.swp  # Temporary swap files (Vim, etc.)
