@@ -17,7 +17,7 @@ import java.util.concurrent.ScheduledExecutorService;
 import java.util.concurrent.TimeUnit;
 
 // The value here should match an entry in the META-INF/mods.toml file
-@Mod("dawncrafttweaks")
+@Mod("dawncraft_additional_tweaks")
 public class DawncraftTweaks {
 
     public DawncraftTweaks() {
