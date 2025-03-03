@@ -1154,6 +1154,512 @@
         },
         {
           "type": "minecraft:item",
+          "name": "epicfight:uchigatana",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "min": 0.1,
+                "max": 0.9
+              }
+            },
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 5,
+                "max": 60
+              },
+              "treasure": true
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "epicfight:stone_greatsword",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "min": 0.1,
+                "max": 0.9
+              }
+            },
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 5,
+                "max": 60
+              },
+              "treasure": true
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "epicfight:stone_greatsword",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "min": 0.1,
+                "max": 0.9
+              }
+            },
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 5,
+                "max": 60
+              },
+              "treasure": true
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "epicfight:iron_greatsword",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "min": 0.1,
+                "max": 0.9
+              }
+            },
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 5,
+                "max": 60
+              },
+              "treasure": true
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "epicfight:golden_greatsword",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "min": 0.1,
+                "max": 0.9
+              }
+            },
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 5,
+                "max": 60
+              },
+              "treasure": true
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "epicfight:diamond_greatsword",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "min": 0.1,
+                "max": 0.9
+              }
+            },
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 5,
+                "max": 60
+              },
+              "treasure": true
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "epicfight:stone_spear",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "min": 0.1,
+                "max": 0.9
+              }
+            },
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 5,
+                "max": 60
+              },
+              "treasure": true
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "epicfight:iron_spear",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "min": 0.1,
+                "max": 0.9
+              }
+            },
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 5,
+                "max": 60
+              },
+              "treasure": true
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "epicfight:golden_spear",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "min": 0.1,
+                "max": 0.9
+              }
+            },
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 5,
+                "max": 60
+              },
+              "treasure": true
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "epicfight:diamond_spear",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "min": 0.1,
+                "max": 0.9
+              }
+            },
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 5,
+                "max": 60
+              },
+              "treasure": true
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "epicfight:iron_tachi",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "min": 0.1,
+                "max": 0.9
+              }
+            },
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 5,
+                "max": 60
+              },
+              "treasure": true
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "epicfight:golden_tachi",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "min": 0.1,
+                "max": 0.9
+              }
+            },
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 5,
+                "max": 60
+              },
+              "treasure": true
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "epicfight:diamond_tachi",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "min": 0.1,
+                "max": 0.9
+              }
+            },
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 5,
+                "max": 60
+              },
+              "treasure": true
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "epicfight:iron_longsword",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "min": 0.1,
+                "max": 0.9
+              }
+            },
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 5,
+                "max": 60
+              },
+              "treasure": true
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "epicfight:golden_longsword",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "min": 0.1,
+                "max": 0.9
+              }
+            },
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 5,
+                "max": 60
+              },
+              "treasure": true
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "epicfight:diamond_longsword",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "min": 0.1,
+                "max": 0.9
+              }
+            },
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 5,
+                "max": 60
+              },
+              "treasure": true
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "epicfight:iron_dagger",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "min": 0.1,
+                "max": 0.9
+              }
+            },
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 5,
+                "max": 60
+              },
+              "treasure": true
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "epicfight:golden_dagger",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "min": 0.1,
+                "max": 0.9
+              }
+            },
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 5,
+                "max": 60
+              },
+              "treasure": true
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "epicfight:diamond_dagger",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "min": 0.1,
+                "max": 0.9
+              }
+            },
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 5,
+                "max": 60
+              },
+              "treasure": true
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "epicfight:glove",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "min": 0.1,
+                "max": 0.9
+              }
+            },
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 5,
+                "max": 60
+              },
+              "treasure": true
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "epicfight:stray_hat",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "min": 0.1,
+                "max": 0.9
+              }
+            },
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 5,
+                "max": 60
+              },
+              "treasure": true
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "epicfight:stray_robe",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "min": 0.1,
+                "max": 0.9
+              }
+            },
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 5,
+                "max": 60
+              },
+              "treasure": true
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "epicfight:stray_pants",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "min": 0.1,
+                "max": 0.9
+              }
+            },
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 5,
+                "max": 60
+              },
+              "treasure": true
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
           "name": "apotheosis:scrap_tome",
           "weight": 20
         },
